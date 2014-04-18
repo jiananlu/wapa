@@ -14,7 +14,7 @@ content of `/tmp/.waparc`:
     "DBhost": "sql.yourhost.com",
     "DBport": "3306",
     "DBname": "dbname",
-    "Encryption_key": "<some 32 bits encryption key"
+    "Encryption_key": "<some 32 bits encryption key>"
 }
 
 */
